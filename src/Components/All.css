@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1800px;
+    align-items: center;
+}
+.navdiv{
+    height: 30vh;
+    
+}
+.h1 {
+    padding: 10px 0px 0px 0px;
+    box-sizing: border-box;
+    font-family: "Baloo 2",cursive;
+    font-size: 4em;
+    font-weight: 200;
+    color: #373d46;
+    margin-bottom: 30px;  
+}
+
+.about {
+    background-color: #f0f8ff;
+    height: 100vh;
+}
+.about1{
+    padding: 100px 0px 0px 0px;
+    box-sizing: border-box;
+    font-family: "Baloo 2",cursive;
+    font-size: 4em;
+    font-weight: 200;
+    color: #373d46;
+    margin-bottom: 30px;
+}
+.about2 {
+    font-size: 2em;
+    /* font-weight: 300; */
+    /* line-height: 4em; */
+    color: black;
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Baloo 2",cursive;
+}
+.skilldiv{
+    padding-top: 90px;
+    height: 800px;
+}
+.skill1 {
+    padding: 20px;
+}
+.skill2{
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+.skill3{
+    height: 200px;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
